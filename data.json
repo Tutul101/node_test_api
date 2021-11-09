@@ -1,0 +1,34 @@
+[
+    {
+        "id":0,
+        "produt_name": "Fresh Avocados",
+        "from": "Spain",
+        "nutrients": "Vitamin B, Vitamin K",
+        "price": "6.50",
+        "organic": true
+    },
+    {
+        "id":0,
+        "produt_name": "Fresh Avocados",
+        "from": "Spain",
+        "nutrients": "Vitamin B, Vitamin K",
+        "price": "6.50",
+        "organic": true
+    },
+    {
+        "id":0,
+        "produt_name": "Fresh Avocados",
+        "from": "Spain",
+        "nutrients": "Vitamin B, Vitamin K",
+        "price": "6.50",
+        "organic": true
+    },
+    {
+        "id":0,
+        "produt_name": "Fresh Avocados",
+        "from": "Spain",
+        "nutrients": "Vitamin B, Vitamin K",
+        "price": "6.50",
+        "organic": true
+    }
+]
